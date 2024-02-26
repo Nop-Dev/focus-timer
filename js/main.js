@@ -1,5 +1,5 @@
-import './toggle-theme.js'
+import './toggle-theme.js';
 
-import * as FocusTimer from './FocusTimer/index.js'
+import * as FocusTimer from './FocusTimer/index.js';
 
-FocusTimer.start(1, 6)
+FocusTimer.start(10, 0);
