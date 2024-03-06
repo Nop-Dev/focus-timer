@@ -1,4 +1,4 @@
-# FocusTimer by Nop-Dev
+# FocusTimer by Nop-Dev ⏰
 
 Bem-vindo ao FocusTimer, um timer estilo pomodoro com funcionalidades incríveis para te ajudar a manter o foco e a produtividade! ⏰
 
