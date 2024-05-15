@@ -21,7 +21,7 @@ E pronto! Agora você está pronto para aumentar sua produtividade com o FocusTi
 
 ## Feedback
 
-Sua opinião é importante para nós! Se você tiver alguma sugestão, feedback ou encontrar algum problema, por favor, abra uma issue neste repositório.
+Sua opinião é importante para mim! Se você tiver alguma sugestão, feedback ou encontrar algum problema, por favor, abra uma issue neste repositório.
 
 | Nop-Dev, 2023 :rocket: |
 | --- |
